@@ -1,6 +1,6 @@
 # Machine Learning Assignments
 
-This repository contains a collection of Machine Learning assignments completed during my Computer Engineering studies at Istanbul Technical University (İTÜ). The projects focus on implementing fundamental ML algorithms, analyzing model performances, extracting mathematical insights, and writing core algorithms entirely from scratch.
+This repository contains a collection of Machine Learning assignments completed during my Learning from Data Course. The projects focus on implementing fundamental ML algorithms, analyzing model performances, extracting mathematical insights, and writing core algorithms entirely from scratch.
 
 ## 👨‍💻 Author
 **Ahmed Said Gülşen**
